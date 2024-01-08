@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gk_Api", "Gk_Api\Gk_Api.csproj", "{77A81296-0212-4142-8180-5D8F98547080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gk_Api", "Gk_Api\Gk_Api.csproj", "{77A81296-0212-4142-8180-5D8F98547080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gk_dotnet8", "Gk_dotnet8\Gk_dotnet8.csproj", "{EC06E1E7-A1C7-4729-B5AB-3F36C4ECE1F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{77A81296-0212-4142-8180-5D8F98547080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77A81296-0212-4142-8180-5D8F98547080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77A81296-0212-4142-8180-5D8F98547080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC06E1E7-A1C7-4729-B5AB-3F36C4ECE1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC06E1E7-A1C7-4729-B5AB-3F36C4ECE1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC06E1E7-A1C7-4729-B5AB-3F36C4ECE1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC06E1E7-A1C7-4729-B5AB-3F36C4ECE1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
